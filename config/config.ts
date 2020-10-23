@@ -37,6 +37,7 @@ export default defineConfig({
           'https://cdn.jsdelivr.net/npm/react@16.8.6/umd/react.development.js',
           'https://cdn.jsdelivr.net/npm/react-dom@16.8.6/umd/react-dom.development.js',
           'https://cdn.jsdelivr.net/npm/moment@2.25.3/moment.js',
+          'https://cdn.jsdelivr.net/npm/moment@2.25.3/locale/zh-cn.js',
           'https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.js',
           'https://cdn.jsdelivr.net/npm/antd@4.6.3/dist/antd.js',
         ]
